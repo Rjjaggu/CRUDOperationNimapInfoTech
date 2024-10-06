@@ -1,0 +1,9 @@
+package com.bikkadit.helper;
+
+public class AppConstants {
+	
+	public static final String USER_DELETE ="User is Not Found";
+	
+	public static final String NOT_FOUND="User Deleted Successfully ";
+
+}
